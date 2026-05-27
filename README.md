@@ -1,4 +1,4 @@
-\# Airbnb Data Mart (PostgreSQL)
+# Airbnb Data Mart (PostgreSQL)
 
 
 
@@ -12,34 +12,34 @@ The database was designed and implemented as part of a university database model
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
-* PostgreSQL
-* pgAdmin 4
-* sql
-
-
-
-
-
-\## Project Features
-
-
-
-* 25 relational tables
-* Primary and foreign key constraints
-* Many-to-many relationships using junction tables
-* Recursive/self-reference relationships
-* Representative dummy data
-* Validation and analytical test cases
+- PostgreSQL
+- pgAdmin 4
+- sql
 
 
 
 
 
-\## Example Analytical Queries
+## Project Features
+
+
+
+- 25 relational tables
+- Primary and foreign key constraints
+- Many-to-many relationships using junction tables
+- Recursive/self-reference relationships
+- Representative dummy data
+- Validation and analytical test cases
+
+
+
+
+
+## Example Analytical Queries
 
 
 
@@ -47,15 +47,15 @@ The project includes analytical test cases such as:
 
 
 
-* Booking overview with multi-table joins
-* Average host rating calculations
-* Revenue aggregation per listing
+- Booking overview with multi-table joins
+- Average host rating calculations
+- Revenue aggregation per listing
 
 
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -69,7 +69,7 @@ docs/
 
 
 
-\## Documentation
+## Documentation
 
 
 
