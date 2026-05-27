@@ -61,7 +61,7 @@ The project includes analytical test cases such as:
 
 ```text
 
-SQL/
+sql/
 
 docs/
 
